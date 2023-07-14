@@ -28,26 +28,26 @@ var X6glqW8,sGzg5h0,f9NwxTV,W7sFwl7,jT2NwQ,cFsaKrL,I9iGid,FsNnqfs,K976Np9,EhOHHZ
 }
 .leaderNameM:after {
   visibility:visible;
-  content:'jaguar';
+  content:'Jaguar';
   font-size:18px !important;
   color:rgb(255, 145, 0) !important;
 }
 #menuAccountUsername{ font-size: 0px; }
 #menuAccountUsername::before {
-    content: "jaguar";
+    content: "Jaguar";
     font-size: 16px;
     color:rgb(255, 145, 0) !important;
 }
 .menuClassPlayerName{ font-size: 0px; }
 .menuClassPlayerName::before {
-    content: "jaguar";
+    content: "Jaguar";
     font-size: 19px;
     color:rgb(255, 145, 0) !important;
 }
 
 .leaderNameM, .leaderNameM span {
     font-size:0px !important;
-    content:'jaguar';
+    content:'Jaguar';
     color:rgb(255, 145, 0) !important;
 }
 * {
